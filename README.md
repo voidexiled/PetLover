@@ -19,8 +19,7 @@
 <br />
 
 [![license](https://img.shields.io/github/license/voidexiled/PetLover.svg?style=for-the-badge)](LICENSE)
-
-[![size](https://img.shields.io/github/repo-size/voidexiled/PetLover?color=green&label=tama%C3%B1o&logoColor=red&style=for-the-badge)](https://github.com/voidexiled/PetLover)
+[![size](https://img.shields.io/github/languages/code-size/voidexiled/PetLover?color=green&label=tama%C3%B1o&logoColor=red&style=for-the-badge)](https://github.com/voidexiled/PetLover)
 [![Made by](https://img.shields.io/badge/By-v0idexiled-blue?style=for-the-badge&logo=React)](https://reactnative.dev/docs/getting-started)
 
 
